@@ -1,2 +1,2 @@
 # TIL
-memo Today I Learned
+매일 공부하고 기록하자
